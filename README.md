@@ -1,6 +1,6 @@
-# stm32_bluepill_template
+# stm32_bluepill_adc_pwm
 
-...
+ADC read from potentiometer controling of PWM output (for example LED). 
 
 Created in STM32CubeIDE for STM32 "Blue Pill" HW-267 based on STM32F103CBT6 MCU. 
 
